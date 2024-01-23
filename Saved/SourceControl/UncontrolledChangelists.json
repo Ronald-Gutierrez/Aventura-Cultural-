@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UnrealEngineProyectos/Aventura-Cultural-/Content/Escena1/Cuarto.umap",
+				"D:/UnrealEngineProyectos/Aventura-Cultural-/Content/VRTemplate/Blueprints/IntroNivel1.uasset",
+				"D:/UnrealEngineProyectos/Aventura-Cultural-/Content/VRTemplate/Audio/AUDIO_Escena_1.uasset",
 				"D:/StoryTelling/AventuraCultural/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"D:/StoryTelling/AventuraCultural/Content/Escena1/Cuarto.umap",
 				"D:/StoryTelling/AventuraCultural/Content/Cuarto/Material_004.uasset",
